@@ -122,12 +122,15 @@ void loop()
 ![Screenshot 2024-03-07 112054](https://github.com/DurgaV240106/Experiment--04-Interfacing-digital-output-with-arduino-ultrasonic-sensor/assets/144870878/f8ee1abe-873f-4d8f-a595-8d79f477b3d5)
    
 
+## CALCULATION
+
+Average error = sum/ number of readings 
+Average error =( 
 			
 			
 			
 			
 			
-			Average error = sum/ number of readings 
  
 
 
