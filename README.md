@@ -125,7 +125,7 @@ void loop()
 ## CALCULATION
 
 Average error = sum/ number of readings 
-Average error =( 
+Average error =(0.13 + 0.12 - 0.69 + 0.47 + 0.62 )/5 = 0.13
 			
 			
 			
@@ -142,7 +142,7 @@ Average error =(
 
 ### RESULTS
 
-An ultrasonic pair and measure the distance in centimeters , calculate the error are successfully.
+Thus the Error value between the actual value and measured value is calculated with the help of ultrasonic sensor.
 
 
 
