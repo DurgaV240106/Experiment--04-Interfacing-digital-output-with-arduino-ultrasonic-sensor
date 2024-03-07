@@ -139,6 +139,8 @@ void loop()
 
 ### RESULTS
 
+An ultrasonic pair and measure the distance in centimeters , calculate the error are successfully.
+
 
 
 
